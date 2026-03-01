@@ -1,6 +1,6 @@
 """
-NumPy Basics Practice
-Author: Your Name
+NumPy Basics Day 2: Practice Questions
+Author: SHALOM CHUKWUKADIBIA CHIMDIKE
 Description:
 This script covers foundational NumPy concepts including:
 - Array creation
